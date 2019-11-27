@@ -1,11 +1,11 @@
-name: "my-website"
+name: "Human Logistic Operation Resilience Lab"
 output_dir: "."
 navbar:
-  title: "My Website"
+  title: "Hulorlab"
   left:
-    - text: "Home"
+    - text: "Proyectos"
       href: index.html
-    - text: "About"
+    - text: "Quienes somos"
       href: about.html
 output:
   html_document:
