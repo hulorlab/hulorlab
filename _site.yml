@@ -5,9 +5,9 @@ navbar:
   left:
     - text: "Proyectos"
       href: index.html
-    - text: "Quienes somos"
+    - text: "¿Quiénes somos?"
       href: about.html
 output:
   html_document:
-    theme: united
+    theme: readthedown
     highlight: textmate
