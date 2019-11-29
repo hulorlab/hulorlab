@@ -1,7 +1,7 @@
 name: "Human Logistic Operation Resilience Lab"
 output_dir: "."
 navbar:
-  title: "Hulorlab"
+  title: "HULORLAB"
   left:
     - text: "Proyectos"
       href: index.html
@@ -9,5 +9,5 @@ navbar:
       href: about.html
 output:
   html_document:
-    theme: readthedown
+    theme: cerulean
     highlight: textmate
